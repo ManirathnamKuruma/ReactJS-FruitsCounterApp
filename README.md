@@ -1,5 +1,8 @@
 In this project, let's build a **Fruits Counter** by applying the concepts we have learned till now.
 
+### Link to the page is given below:
+https://mkfruitscounter.ccbp.tech/
+
 ### Refer to the image below:
 
 <br/>
